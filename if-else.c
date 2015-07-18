@@ -12,6 +12,7 @@ int main()
 	
 	printf("Please Enter a Character   ");
 	c = getchar();
+	
 
 
 	
